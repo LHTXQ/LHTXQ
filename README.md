@@ -11,9 +11,10 @@
 
 **关于我：**
 
-- 👨 我是心倾。
-- 🏢 目前正在***工作。
-- 💬 我很乐意与你交流任何事。
+- 😃 我是心倾。
+- 🌏 我的家乡是重庆。
+- 🏢 我目前在深圳工作。
+- 💬 我很乐意与你交流任何事情。
 - 📝 我的[微信公众号](http://mp.weixin.qq.com/s?__biz=MzI4MjMyOTU0NA==&mid=2247483704&idx=1&sn=d20fda2ea31bf0c18ac8b8976666fda4&chksm=eb9ae99fdced608944eafb8728ca076152bdab90fa9199d0d8ab9945163383e800ce96e77dbb&scene=18#wechat_redirect)是“心倾”（ID：Xin-Qing7）。
 
 </br>
